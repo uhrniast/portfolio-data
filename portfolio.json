@@ -13,7 +13,12 @@
       "name": "Expense Tracker",
       "description": "Track daily expenses with charts and reports.",
       "link": "https://github.com/username/expense-tracker"
-    }
+    },
+    {
+      "name": "bubble pager",
+      "description": "using esp32 makde a ble enable pager.",
+      "link": "https://github.com/username/expense-tracker"
+    },
   ],
   "certifications": [
     {
