@@ -1,0 +1,30 @@
+{
+  "name": "Hope Yourself",
+  "title": "Full Stack Developer & AI Enthusiast",
+  "about": "I create dynamic and responsive web applications with modern technologies.",
+  "skills": ["HTML", "CSS", "JavaScript", "React", "Node.js", "Python", "AI/ML"],
+  "projects": [
+    {
+      "name": "Dynamic Portfolio",
+      "description": "A portfolio website fetching data from GitHub JSON.",
+      "link": "https://github.com/username/portfolio"
+    },
+    {
+      "name": "Expense Tracker",
+      "description": "Track daily expenses with charts and reports.",
+      "link": "https://github.com/username/expense-tracker"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Full Stack Web Development",
+      "issuer": "Coursera",
+      "link": "https://www.coursera.org/account/accomplishments/certificate/XYZ"
+    },
+    {
+      "name": "Quantum Computing",
+      "issuer": "edX",
+      "link": "https://www.edx.org/certificate/ABC"
+    }
+  ]
+}
